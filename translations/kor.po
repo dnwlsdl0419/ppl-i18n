@@ -1,46 +1,46 @@
 #: ../client/application/ui/ui_helpers.cpp:63
 msgid "on"
-msgstr ""
+msgstr "키기"
 
 #: ../client/application/ui/ui_helpers.cpp:64
 msgid "off"
-msgstr ""
+msgstr "끄기"
 
 #: ../client/application/ui/keyboard_view.cpp:106
 msgid "ok"
-msgstr ""
+msgstr "OK"
 
 #: ../client/application/game/game.cpp:160
 msgid "Quick pause"
-msgstr ""
+msgstr "일시정지"
 
 #: ../client/application/game/game.cpp:166
 msgid "Quick pause %s"
-msgstr ""
+msgstr "일시정지 %s"
 
 #: ../client/application/game/ui/pause_ui.cpp:26
 msgid "Continue"
-msgstr ""
+msgstr "계속하기"
 
 #: ../client/application/game/ui/pause_ui.cpp:38
 msgid "Pause"
-msgstr ""
+msgstr "일시정지"
 
 #: ../client/application/game/ui/pause_ui.cpp:54
 msgid "Restart"
-msgstr ""
+msgstr "다시 시작하기"
 
 #: ../client/application/game/ui/pause_ui.cpp:72
 msgid "Exit"
-msgstr ""
+msgstr "나가기"
 
 #: ../client/application/game/ui/game_over_ui.cpp:15
 msgid "Play again"
-msgstr ""
+msgstr "다시플레이"
 
 #: ../client/application/game/ui/game_over_ui.cpp:34
 msgid "Game Over"
-msgstr ""
+msgstr "GAME OVER"
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
@@ -48,7 +48,7 @@ msgstr ""
 
 #: ../client/application/game/ui/shared_strings.cpp:11
 msgid "Failed to contact server"
-msgstr ""
+msgstr "서버 연결에 실패하였습니다."
 
 #: ../client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
@@ -56,15 +56,15 @@ msgstr ""
 
 #: ../client/application/game/ui/shared_strings.cpp:19
 msgid "Community levels"
-msgstr ""
+msgstr "커뮤니티 레벨"
 
 #: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
-msgstr ""
+msgstr "플레이 "
 
 #: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
-msgstr ""
+msgstr "플레이 시간 : %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:31
 msgid "Casual"
@@ -72,23 +72,23 @@ msgstr ""
 
 #: ../client/application/game/ui/shared_strings.cpp:35
 msgid "Failed to sign-in!"
-msgstr ""
+msgstr "로그인 실패!"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:44
 msgid "Downloading level..."
-msgstr ""
+msgstr "LEVEL 다운로드중..."
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:23
 msgid "Connect to server"
-msgstr ""
+msgstr "서버에 연결중"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:55
 msgid "IP:"
-msgstr ""
+msgstr "IP :"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:63
 msgid "Port:"
-msgstr ""
+msgstr "Port : "
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:74
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
@@ -96,19 +96,19 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:83
 msgid "Connect"
-msgstr ""
+msgstr "연결중"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:29
 msgid "Enter password"
-msgstr ""
+msgstr "비밀번호를 입력하여주세요"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:32
 msgid "Join"
-msgstr ""
+msgstr "참가하기"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:45
 msgid "Password:"
-msgstr ""
+msgstr "Password :"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:83
 msgid "Configure joysticks"
@@ -120,35 +120,35 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:103
 msgid "Reset"
-msgstr ""
+msgstr "리셋"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:23
 msgid "Select multiplayer type"
-msgstr ""
+msgstr "멀티플레이 유형선택"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:27
 msgid "Online multiplayer"
-msgstr ""
+msgstr "온라인 멀티플레이어"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:38
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "전 세계사람들과 즐기기"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:53
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "랜 멀티플레이어"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:64
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "같은 인터넷 사용자"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:42
 msgid "Local multiplayer"
-msgstr ""
+msgstr "로컬 멀티플레이어"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Help"
-msgstr ""
+msgstr "도움"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:55
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
@@ -156,7 +156,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:56
 msgid "One player must create a room, which the other player joins."
-msgstr ""
+msgstr "한 명의 플레이어가 방을 만들어야 하며, 다른 플레이어가 참여해야합니다."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:57
 msgid "The wifi network does not have to be connected to the internet."
